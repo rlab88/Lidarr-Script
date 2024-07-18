@@ -1,6 +1,6 @@
 @echo off
-Set "lidarrUrl="
-Set "lidarrApiKey="
+Set "lidarrUrl=INSERTURL:PORTHERE"
+Set "lidarrApiKey=INSERTYOURAPIKEY"
 
 
 If %lidarr_eventtype%==Test Exit
