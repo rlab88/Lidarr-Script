@@ -1,6 +1,6 @@
 @echo off
-Set "lidarrUrl=http://192.168.0.16:8686"
-Set "lidarrApiKey=327462d1451a45a38d9f5e89cfdc84ab"
+Set "lidarrUrl="
+Set "lidarrApiKey="
 
 
 If %lidarr_eventtype%==Test Exit
